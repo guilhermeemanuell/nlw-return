@@ -1,4 +1,4 @@
 # nlw-return
 Trilha Origin - 🚀
 
-<a target="_blank" href="https://guilhermeemanuell.github.io/nlw-return">https://guilhermeemanuell.github.io/nlw-return</a>
+<a target="__blank" href="https://guilhermeemanuell.github.io/nlw-return">https://guilhermeemanuell.github.io/nlw-return</a>
